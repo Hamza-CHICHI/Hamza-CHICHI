@@ -28,7 +28,7 @@ within a team and to create constant synergy with my colleagues.
   <img src="https://github.com/Hamza-CHICHI/Hamza-CHICHI/blob/master/logos/c.png?raw=true" height="60" width="60">
   <img src="https://github.com/Hamza-CHICHI/Hamza-CHICHI/blob/master/logos/python.png?raw=true" height="60" width="60">
   <br>
-  <img src="https://github.com/Hamza-CHICHI/Hamza-CHICHI/blob/master/logos/spring_boot.jpg?raw=true" height="60" width="60">
+  <img src="https://github.com/Hamza-CHICHI/Hamza-CHICHI/blob/master/logos/spring_boot.png?raw=true" height="60" width="60">
   <img src="https://github.com/Hamza-CHICHI/Hamza-CHICHI/blob/master/logos/postgres.png?raw=true" height="60" width="60">
   <img src="https://github.com/Hamza-CHICHI/Hamza-CHICHI/blob/master/logos/sql.png?raw=true" height="60" width="60">
   <img src="https://github.com/Hamza-CHICHI/Hamza-CHICHI/blob/master/logos/angular.png?raw=true" height="60" width="60">
