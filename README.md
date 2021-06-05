@@ -32,8 +32,8 @@ within a team and to create constant synergy with my colleagues.
   <img src="https://github.com/Hamza-CHICHI/Hamza-CHICHI/blob/master/logos/postgres.png?raw=true" height="60" width="60">
   <img src="https://github.com/Hamza-CHICHI/Hamza-CHICHI/blob/master/logos/sql.png?raw=true" height="60" width="60">
   <img src="https://github.com/Hamza-CHICHI/Hamza-CHICHI/blob/master/logos/angular.png?raw=true" height="60" width="60">
-  <img src="https://github.com/Hamza-CHICHI/Hamza-CHICHI/blob/master/logos/react.png?raw=true" height="55" width="60">
-  <img src="https://github.com/Hamza-CHICHI/Hamza-CHICHI/blob/master/logos/aws.png?raw=true" height="50" width="70">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="60" width="60">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" height="60" width="60">
   
   <br>
 
