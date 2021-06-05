@@ -23,5 +23,16 @@ within a team and to create constant synergy with my colleagues.
 ## 👨‍💻 Languages and Tools
 
   <div align="center">
-  <img src="https://github.com/Hamza-CHICHI/Hamza-CHICHI/blob/master/logos/java.png?raw=true" height="25" width="25">
+  <img src="https://github.com/Hamza-CHICHI/Hamza-CHICHI/blob/master/logos/java.png?raw=true" height="60" width="60">
+  <img src="https://github.com/Hamza-CHICHI/Hamza-CHICHI/blob/master/logos/spring_boot.png?raw=true" height="60" width="60">
+  <img src="https://github.com/Hamza-CHICHI/Hamza-CHICHI/blob/master/logos/html.png?raw=true" height="60" width="60">
+  <img src="https://github.com/Hamza-CHICHI/Hamza-CHICHI/blob/master/logos/css.png?raw=true" height="60" width="60">
+  <img src="https://github.com/Hamza-CHICHI/Hamza-CHICHI/blob/master/logos/bootstrap.png?raw=true" height="60" width="60">
+  <img src="https://github.com/Hamza-CHICHI/Hamza-CHICHI/blob/master/logos/postgres.png?raw=true" height="60" width="60">
+  <img src="https://github.com/Hamza-CHICHI/Hamza-CHICHI/blob/master/logos/sql.png?raw=true" height="60" width="60">
+  <img src="https://github.com/Hamza-CHICHI/Hamza-CHICHI/blob/master/logos/react.png?raw=true" height="60" width="60">
+  <img src="https://github.com/Hamza-CHICHI/Hamza-CHICHI/blob/master/logos/git.png?raw=true" height="60" width="60">
+  <img src="https://github.com/Hamza-CHICHI/Hamza-CHICHI/blob/master/logos/angular.png?raw=true" height="60" width="60">
+  <img src="https://github.com/Hamza-CHICHI/Hamza-CHICHI/blob/master/logos/vs.png?raw=true" height="60" width="60">
+  <img src="https://github.com/Hamza-CHICHI/Hamza-CHICHI/blob/master/logos/intelij.png?raw=true" height="60" width="60">
   </div>
