@@ -58,9 +58,9 @@ within a team and to create constant synergy with my colleagues.
   <br />
   <div align="center">
 
-<img  src="https://github-readme-stats.vercel.app/api?username=Hamza-CHICHI&show_icons=true&hide_border=true&theme=dark" width="80%"  >
+<img  src="https://github-readme-stats.vercel.app/api?username=Hamza-CHICHI&show_icons=true&hide_border=true&theme=dark" width="65%"  >
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Hamza-CHICHI&hide_border=true&theme=dark" width="80%" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Hamza-CHICHI&hide_border=true&theme=dark" width="65%" >
 
 <br>
 </div>
@@ -82,5 +82,3 @@ within a team and to create constant synergy with my colleagues.
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://hamza-chichi.github.io/MyPortfolio/)
 
 </div>
-
-#
