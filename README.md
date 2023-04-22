@@ -5,27 +5,26 @@
 <h3 align="center">I'm a Software Engineer and a Web Developer</h3>
 <br/>
 
-A Software Engineer and Web developer from Morocco. I'm passionate about Full-Stack Web Development. I'm always looking forward to take new challenges and surpass myself,
-my duty is to always fulfill my personal and professional missions
-within a team and to create constant synergy with my colleagues.
+Hello! I'm a DevOps Engineer & SRE with a passion for automation and continuous improvement. I have extensive experience in Gitlab CI/CD, K8S, AWS, Ansible, Terraform, scripting, Linux administration, and networking. My goal is to help organizations deliver high-quality software faster and more efficiently through automation and DevOps best practices. I enjoy working with cutting-edge technologies and staying up-to-date with the latest industry trends. When I'm not working, you can find me exploring new tools and technologies, writing new articles and blogs, or hiking in the great outdoors.
+
 <br />
 <br />
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on Web developement projects
-- 🌱 I’m currently learning DevOps practices (Docker, Jenkins...)
-- 👯 I’m looking to collaborate Stack projects Spring Boot + Angular
-- 🥅 2021 Goals: Contribute to Open Source projects
+- 🔭 I’m currently working on diffirent environnement ( bare metal - aws eks / ecs / ec2 )
+- 🌱 I’m currently working on FinOps and optimizing different cloud resources for better cost
+- 👯 I’m looking to write new articles on DevOps / Cloud / K8S best practices
+- 🥅 2023 Goals: Acquiring Certified Kubernetes Application Developer (CKAD) certification
   <br />
   <br />
 
 ## 👨‍💻 Languages and Tools
 
   <div align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" height="60" width="60">
   <img src="https://github.com/Hamza-CHICHI/Hamza-CHICHI/blob/master/logos/java.png?raw=true" height="60" width="60">
   <img src="https://github.com/Hamza-CHICHI/Hamza-CHICHI/blob/master/logos/js.png?raw=true" height="60" width="60">
-  <img src="https://github.com/Hamza-CHICHI/Hamza-CHICHI/blob/master/logos/c.png?raw=true" height="60" width="60">
   <img src="https://github.com/Hamza-CHICHI/Hamza-CHICHI/blob/master/logos/python.png?raw=true" height="60" width="60">
   <br>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" height="60" width="60">
