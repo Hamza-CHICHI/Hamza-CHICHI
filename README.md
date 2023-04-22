@@ -22,31 +22,24 @@ Hello! I'm a DevOps Engineer & SRE with a passion for automation and continuous 
 ## 👨‍💻 Languages and Tools
 
   <div align="center">
+  
+  
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" height="60" width="60">
+ 
+  
+  
+  <br>
   <img src="https://github.com/Hamza-CHICHI/Hamza-CHICHI/blob/master/logos/java.png?raw=true" height="60" width="60">
   <img src="https://github.com/Hamza-CHICHI/Hamza-CHICHI/blob/master/logos/js.png?raw=true" height="60" width="60">
   <img src="https://github.com/Hamza-CHICHI/Hamza-CHICHI/blob/master/logos/python.png?raw=true" height="60" width="60">
-  <br>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" height="60" width="60">
   <img src="https://github.com/Hamza-CHICHI/Hamza-CHICHI/blob/master/logos/postgres.png?raw=true" height="60" width="60">
-  <img src="https://github.com/Hamza-CHICHI/Hamza-CHICHI/blob/master/logos/sql.png?raw=true" height="60" width="60">
-  <img src="https://github.com/Hamza-CHICHI/Hamza-CHICHI/blob/master/logos/angular.png?raw=true" height="60" width="60">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="60" width="60">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" height="60" width="60">
   
   <br>
-
-  <img src="https://github.com/Hamza-CHICHI/Hamza-CHICHI/blob/master/logos/html.png?raw=true" height="55" width="55">
-
-  <img src="https://github.com/Hamza-CHICHI/Hamza-CHICHI/blob/master/logos/css.png?raw=true" height="55" width="55">
-
-  <img src="https://github.com/Hamza-CHICHI/Hamza-CHICHI/blob/master/logos/bootstrap.png?raw=true" height="55" width="55">
-
   <img src="https://github.com/Hamza-CHICHI/Hamza-CHICHI/blob/master/logos/vs.png?raw=true" height="55" width="55">
-
   <img src="https://github.com/Hamza-CHICHI/Hamza-CHICHI/blob/master/logos/intelij.png?raw=true" height="55" width="55">
-
-   <img src="https://github.com/Hamza-CHICHI/Hamza-CHICHI/blob/master/logos/git.png?raw=true" height="60" width="60">
+  <img src="https://github.com/Hamza-CHICHI/Hamza-CHICHI/blob/master/logos/git.png?raw=true" height="60" width="60">
     
   </div>
 
