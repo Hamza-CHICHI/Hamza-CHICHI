@@ -24,22 +24,30 @@ Hello! I'm a DevOps Engineer & SRE with a passion for automation and continuous 
   <div align="center">
   
   
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" height="60" width="60">
- 
-  
-  
+  <img src="./logos/k8s.png?raw=true" height="60" width="60">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" height="60" width="60" style="margin-left: 10px;">
+  <img src="./logos/terraform.svg?raw=true" height="60" width="60">
+  <img src="./logos/ansible.png?raw=true" height="60" width="60">
+  <img src="./logos/nginx.png?raw=true" height="60" width="100" style="margin-left: -20px; margin-right: -20px">
+
   <br>
-  <img src="https://github.com/Hamza-CHICHI/Hamza-CHICHI/blob/master/logos/java.png?raw=true" height="60" width="60">
-  <img src="https://github.com/Hamza-CHICHI/Hamza-CHICHI/blob/master/logos/js.png?raw=true" height="60" width="60">
-  <img src="https://github.com/Hamza-CHICHI/Hamza-CHICHI/blob/master/logos/python.png?raw=true" height="60" width="60">
+  <img src="./logos/java.png?raw=true" height="60" width="60">
+  <img src="./logos/js.png?raw=true" height="60" width="60">
+  <img src="./logos/python.png?raw=true" height="60" width="60" style="margin-left: 10px;">
+  <img src="./logos/bash.png?raw=true" height="65" width="105" style="margin-left: -20px; margin-right: -20px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" height="60" width="60">
-  <img src="https://github.com/Hamza-CHICHI/Hamza-CHICHI/blob/master/logos/postgres.png?raw=true" height="60" width="60">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" height="60" width="60">
+  <img src="./logos/postgres.png?raw=true" height="60" width="60" style="margin-left: 5px;">
+
+  <br>
+  <img src="./logos/grafana.png?raw=true" height="60" width="60" style="margin-left: 20px; ">
+  <img src="./logos/prometheus.png?raw=true" height="60" width="60" style="margin-left: 15px;">
+  <img src="./logos/elk.svg?raw=true" height="60" width="100" style="margin-left: -5px">
+  <img src="./logos/argo.png?raw=true" height="60" width="60" style="margin-left: -10px;">
+  
   
   <br>
-  <img src="https://github.com/Hamza-CHICHI/Hamza-CHICHI/blob/master/logos/vs.png?raw=true" height="55" width="55">
-  <img src="https://github.com/Hamza-CHICHI/Hamza-CHICHI/blob/master/logos/intelij.png?raw=true" height="55" width="55">
-  <img src="https://github.com/Hamza-CHICHI/Hamza-CHICHI/blob/master/logos/git.png?raw=true" height="60" width="60">
+  <img src="./logos/gitlab-ci.png?raw=true" height="60" width="60">
+  <img src="./logos/git.png?raw=true" height="60" width="60" style="margin-left: 10px; margin-right: -20px">
     
   </div>
 
@@ -71,6 +79,6 @@ Hello! I'm a DevOps Engineer & SRE with a passion for automation and continuous 
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/Chichi.Hamzaa/)
 <br>
 <br>
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://hamza-chichi.github.io/MyPortfolio/)
+<!-- [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://hamza-chichi.github.io/MyPortfolio/) -->
 
 </div>
