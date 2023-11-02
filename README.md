@@ -1,6 +1,7 @@
 ![](./logos/header.png)
 
-<h1 align="center"> Hello, I'm CHICHI Hamza <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<h1 align="center"> Hi, I'm CHICHI Hamza <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/> ! </h1>
+
 <br/>
 <h3 align="center">I'm a <b>DevOps Engineer</b></h3>
 <br/>
