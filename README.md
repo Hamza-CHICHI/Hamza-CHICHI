@@ -72,14 +72,25 @@ Working with ☁️ Cloud Providers, especially AWS, I have the skills in Lambda
 <div align="center">
 
 # Contact me!
+<br>
+
+[<img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">](https://stackoverflow.com/users/22321735/energy)
 
 <br>
-[![linkdin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-chichi/)
+<br>
+
+[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@hamzachichi)
+
+<br>
+<br>
+
+[<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">](https://twitter.com/Bunta_kujiwara)
+
+<br>
+<br>
+
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/hamza-chichi/)
-<br>
-<br>
-[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/Chichi.Hamzaa/)
-<br>
+
 <br>
 
 </div>
