@@ -4,8 +4,12 @@
 <br/>
 <h3 align="center">I'm a <b>DevOps Engineer</b></h3>
 <br/>
+♾️ DevOps / Cloud Engineer with a solid background in Back-end development, Linux Administration and Networking. I am passionate about automating processes, creating CI/CD pipelines, exploring new technologies and tools, optimizing costs through Monitoring / Logging.
 
-Hello! I'm a DevOps Engineer & SRE with a passion for automation and continuous improvement. I have extensive experience in Gitlab CI/CD, K8S, AWS, Ansible, Terraform, scripting, Linux administration, and networking. My goal is to help organizations deliver high-quality software faster and more efficiently through automation and DevOps best practices. I enjoy working with cutting-edge technologies and staying up-to-date with the latest industry trends. When I'm not working, you can find me exploring new tools and technologies, writing new articles and blogs, or hiking in the great outdoors.
+Using ☸ Kubernetes and 🐋 Docker as my daily tools, I orchestrate and manage containerized applications with  ease, ensuring seamless scalability, high availability, and simplified deployments.
+With 🦊 Gitlab CI, I can deploy multiple backend / frontend apps into different environments, as well as mobile apps (iOS/Android) into their respective stores.
+
+Working with ☁️ Cloud Providers, especially AWS, I have the skills in Lambda, EC2, VPC, RDS, S3, ELB, Route 53, IAM, EKS, ECS, EBS, Elastic Beanstalk ... for seamless deployment, management, and scaling of diverse applications and services on the cloud, as well as provisioning these resources with Terraform.
 
 <br />
 <br />
@@ -60,8 +64,6 @@ Hello! I'm a DevOps Engineer & SRE with a passion for automation and continuous 
 
 <img  src="https://github-readme-stats.vercel.app/api?username=Hamza-CHICHI&show_icons=true&hide_border=true&theme=dark" width="65%"  >
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Hamza-CHICHI&hide_border=true&theme=dark" width="65%" >
-
 <br>
 </div>
 
@@ -78,6 +80,11 @@ Hello! I'm a DevOps Engineer & SRE with a passion for automation and continuous 
 <br>
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/Chichi.Hamzaa/)
 <br>
+<br>
+[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@hamzachichi)
+<br>
+<br>
+[<img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">](https://stackoverflow.com/users/22321735/energy)
 <br>
 <!-- [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://hamza-chichi.github.io/MyPortfolio/) -->
 
