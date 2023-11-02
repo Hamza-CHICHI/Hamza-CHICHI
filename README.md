@@ -74,7 +74,7 @@ Working with ☁️ Cloud Providers, especially AWS, I have the skills in Lambda
 # Contact me!
 
 <br>
-[<img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">](https://stackoverflow.com/users/22321735/energy)
+<!-- [<img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">](https://stackoverflow.com/users/22321735/energy) -->
 <br>
 <br>
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@hamzachichi)
