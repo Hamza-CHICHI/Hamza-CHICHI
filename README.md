@@ -8,6 +8,7 @@
 ♾️ DevOps / Cloud Engineer with a solid background in Back-end development, Linux Administration and Networking. I am passionate about automating processes, creating CI/CD pipelines, exploring new technologies and tools, optimizing costs through Monitoring / Logging.
 
 Using ☸ Kubernetes and 🐋 Docker as my daily tools, I orchestrate and manage containerized applications with  ease, ensuring seamless scalability, high availability, and simplified deployments.
+
 With 🦊 Gitlab CI, I can deploy multiple backend / frontend apps into different environments, as well as mobile apps (iOS/Android) into their respective stores.
 
 Working with ☁️ Cloud Providers, especially AWS, I have the skills in Lambda, EC2, VPC, RDS, S3, ELB, Route 53, IAM, EKS, ECS, EBS, Elastic Beanstalk ... for seamless deployment, management, and scaling of diverse applications and services on the cloud, as well as provisioning these resources with Terraform.
