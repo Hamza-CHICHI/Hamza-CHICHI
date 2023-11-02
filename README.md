@@ -1,6 +1,6 @@
 ![](./logos/header.png)
 
-<h1 align="center"> Hi, I'm CHICHI Hamza <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/> ! </h1>
+<h1 align="center"> Hi, I'm CHICHI Hamza <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/></h1>
 
 <br/>
 <h3 align="center">I'm a <b>DevOps Engineer</b></h3>
@@ -24,7 +24,7 @@ Working with ☁️ Cloud Providers, especially AWS, I have the skills in Lambda
   <br />
   <br />
 
-## 👨‍💻 Languages and Tools
+## 👨‍💻 Tools and Languages
 
   <div align="center">
   
@@ -72,7 +72,7 @@ Working with ☁️ Cloud Providers, especially AWS, I have the skills in Lambda
 
 <div align="center">
 
-# Contact me!
+# Contacts
 <br>
 
 [<img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">](https://stackoverflow.com/users/22321735/energy)
